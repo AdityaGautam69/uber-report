@@ -1,0 +1,19 @@
+# Core data stack
+pandas
+numpy
+matplotlib
+seaborn
+
+# Kaggle dataset access
+kagglehub
+
+# Automated EDA
+ydata-profiling
+
+# Database + ER diagram
+SQLAlchemy
+eralchemy
+graphviz
+
+# Ensure pkg_resources is available
+setuptools
